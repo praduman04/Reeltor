@@ -52,3 +52,20 @@ Deployed link ---> https://reeltor-zgyk.onrender.com
                           "recipientIds": ["679a558b443bf50bf0308a10","679a76498cd874fb34b14493"]
     
                       }
+
+
+* USER LOGIN CREDENTIALS
+               {
+                "email": "olivia78@exam.com",
+                "password": "Olivia@202",
+               }
+
+* ADMIN LOGIN CREDENTIALS
+                    {
+                        "email": "aiden23@exam.com",
+                        "password": "Aiden@456",
+                    }
+
+
+  * LIST OF USER ID'S IN THE DATABASE which can be used for sending notifications.
+                         [679aa54e24f0f7b28df712ad,679aa5c224f0f7b28df712df,679aa5e024f0f7b28df712f8,679aa61824f0f7b28df71311]                  

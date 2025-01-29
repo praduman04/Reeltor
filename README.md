@@ -1,9 +1,9 @@
 # Reeltor
-
+Deployed link ---> https://reeltor-zgyk.onrender.com
 1. User Authentication
   * Sign up
       request--> POST
-      api end point -->http://localhost:3000/api/v1/auth/signUp
+      api end point -->https://reeltor-zgyk.onrender.com/api/v1/auth/signUp
       req body
                {
                   "name": "Phoenix",
@@ -21,7 +21,7 @@
 
    * Login
         request--> POST
-        api end point -->http://localhost:3000/api/v1/auth/login 
+        api end point -->https://reeltor-zgyk.onrender.com/api/v1/auth/login 
         req body 
                {
                     "email": "phoenixWa@exam.com",
@@ -33,7 +33,7 @@
    * Profile Updates
                   authorizaton token--> REQUIRED
                   request--> PATCH
-                  api end point -->http://localhost:3000/api/v1/user/update
+                  api end point -->https://reeltor-zgyk.onrender.com/api/v1/user/update
                   req body 
                        {
                         "name": "Phoenix",
@@ -45,7 +45,7 @@
 4. Notification System
                 authorizaton token--> REQUIRED
                 request--> POST
-                api end point -->http://localhost:3000/api/v1/user/update
+                api end point -->https://reeltor-zgyk.onrender.com/api/v1/user/update
                 req body 
                       {
 	                      "message": "New company policy update released.",
